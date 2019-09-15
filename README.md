@@ -1,2 +1,2 @@
-# comm7330_1
-in-class demo
+# hkbu_comm7330_2019
+homework
